@@ -111,7 +111,7 @@ print(me.hello_world())
 ## 📈 Atividade de Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carolinanogs&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -135,7 +135,7 @@ const aprendendo = {
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00d9ff&style=for-the-badge&label=VISITANTES)
+![Visitor Count](https://komarev.com/ghpvc/?username=carolinanogs&color=00d9ff&style=for-the-badge&label=VISITANTES)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
