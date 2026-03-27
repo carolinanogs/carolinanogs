@@ -1,39 +1,48 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Olá,%20eu%20sou%20Ana!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedora%20apaixonada%20por%20código%20e%20soluções%20reais&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Olá,%20eu%20sou%20Ana%20Carolina!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedora%20apaixonada%20por%20código%20e%20soluções%20reais&descAlignY=55&descSize=18"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Python+%7C+JavaScript+Developer;Django+%7C+Flask+%7C+Node.js+%7C+React+%7C+Angular;Construindo+soluções+que+importam+🌊;Sempre+aprendendo+algo+novo+🚀)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacarolinadev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carolinanogs)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolnogueira2807@gmail.com)
 
 </div>
 
 ---
 
 ## 🧑‍💻 Sobre mim
-
+ 
 ```python
-class Developer:
+class AnaCCarolina:
     def __init__(self):
-        self.nome        = "Ana"
+        self.nome        = "Ana Carolina Nogueira Fontenelle"
+        self.idade       = 29
         self.localizacao = "Manaus, Amazonas 🌿"
-        self.foco        = ["Desenvolvimento Web", "APIs REST", "Sistemas para Pesquisa"]
-        self.linguagens  = ["Python", "JavaScript"]
-        self.frameworks  = ["Django", "Flask", "Node.js", "React", "Angular"]
-        self.atualmente  = "Construindo ferramentas para monitoramento de qualidade da água 🌊"
-        self.hobby       = "Transformar problemas reais em software funcional"
-
-    def hello_world(self):
-        return "Código limpo, propósito claro!"
-
-me = Developer()
-print(me.hello_world())
+ 
+        self.formacao    = [
+            "🎓 Médica Veterinária",
+            "🐟 Mestre em Aquicultura",
+            "💻 Cursando Engenharia de Software (Fundação Paulo Feitoza)",
+        ]
+ 
+        self.missao      = "Unir ciência e tecnologia para construir soluções que importam"
+        self.paixoes     = ["Código", "Animais", "Pesquisa", "Resolver problemas reais"]
+        self.superpoder  = "Transitar entre o laboratório e o editor de código com a mesma naturalidade"
+ 
+    def sobre(self):
+        return (
+            "Veterinária e mestra em aquicultura que descobriu na programação "
+            "uma nova forma de fazer ciência. Hoje, curso Engenharia de Software "
+            "e desenvolvo ferramentas que conectam o mundo acadêmico à tecnologia. 🚀"
+        )
+ 
+ana = AnaCcarolina()
+print(ana.sobre())
 ```
-
 ---
 
 ## 🚀 Tecnologias & Ferramentas
@@ -59,7 +68,7 @@ print(me.hello_world())
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinanogs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
@@ -69,43 +78,22 @@ print(me.hello_world())
 
 ---
 
-## 🗺️ O que eu sei fazer
-
+## 💡 Habilidades
+ 
 <div align="center">
-
-| 🐍 Python / Backend | 🌐 JavaScript / Frontend |
-|:---:|:---:|
-| APIs REST com Django & Flask | Interfaces reativas com React |
-| Autenticação JWT | Aplicações SPA com Angular |
-| Modelagem de banco de dados | Consumo de APIs REST |
-| Scripts e automações | Componentes reutilizáveis |
-
+ 
+![Lógica de Programação](https://img.shields.io/badge/🧠%20Lógica%20de%20Programação-1a1a2e?style=for-the-badge)
+![Desenvolvimento de APIs REST](https://img.shields.io/badge/🔌%20Desenvolvimento%20de%20APIs%20REST-0f3460?style=for-the-badge)
+![Integração entre Sistemas](https://img.shields.io/badge/🔗%20Integração%20entre%20Sistemas-16213e?style=for-the-badge)
+![Modelagem de Banco de Dados](https://img.shields.io/badge/🗄️%20Modelagem%20de%20Banco%20de%20Dados-1a1a2e?style=for-the-badge)
+![Autenticação e Autorização JWT](https://img.shields.io/badge/🔐%20Autenticação%20e%20Autorização-0f3460?style=for-the-badge)
+![Desenvolvimento de Interfaces Web](https://img.shields.io/badge/🖥️%20Desenvolvimento%20de%20Interfaces%20Web-16213e?style=for-the-badge)
+![Versionamento com Git](https://img.shields.io/badge/📦%20Versionamento%20com%20Git-1a1a2e?style=for-the-badge)
+![Testes e Depuração](https://img.shields.io/badge/🧪%20Testes%20e%20Depuração-0f3460?style=for-the-badge)
+![Documentação Técnica](https://img.shields.io/badge/📋%20Documentação%20Técnica-16213e?style=for-the-badge)
+ 
 </div>
-
----
-
-## 🌊 Projeto em Destaque
-
-> **Monitor de Qualidade da Água — Aquicultura**
->
-> Sistema web para monitoramento de parâmetros físico-químicos em experimentos de aquicultura, com suporte a múltiplos tratamentos, tanques-réplica, alertas automáticos e exportação de dados.
-
-<div align="center">
-
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-00d9ff?style=flat-square)
-
-</div>
-
-**Features:**
-- 📋 Registro e gestão de experimentos
-- 🧪 Entrada de dados por tratamento e tanque-réplica
-- 📈 Estatísticas automáticas (média e desvio padrão)
-- 🚨 Alertas visuais por parâmetro fora do ideal
-- 📥 Exportação para CSV
-
+ 
 ---
 
 ## 📈 Atividade de Contribuições
@@ -135,7 +123,7 @@ const aprendendo = {
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=carolinanogs&color=00d9ff&style=for-the-badge&label=VISITANTES)
+![Visitor Count](https://komarev.com/ghpvc/?username=Scarolinanogs&color=00d9ff&style=for-the-badge&label=VISITANTES)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
